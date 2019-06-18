@@ -1,0 +1,30 @@
+Download Android Studio
+Download Appium 
+
+install Android studio
+configure SDK manager
+ 
+
+Set ANDRIOD_HOME
+JAVA_HOME
+
+set path for platforms-tool, tools, tools\bin
+
+verify with this cmd
+sdkmanager –list
+
+create project and create virtual device
+download amazon apk
+drag and drop to the emulator
+
+check to see the elements in mobile app
+
+install Appium and start the server 
+
+cmd to see emulator - adb devices
+
+add the desired capabilites in appium server
+
+create new java class with appium api
+
+call the script to check
